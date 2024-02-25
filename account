@@ -1,12 +1,26 @@
 {
-  "1": [
-    {"name": "admin1"},
-    {"pass": "270205"},
-    {"email": "t@@"}
-  ],
-  "2": [
-    {"name": "admin2"},
-    {"pass": "050705"},
-    {"email": "c@@"}
-  ]
+  "admin": {
+    "1": {
+      "name": "admin1",
+      "pass": "270205",
+      "email": "t@@"
+    },
+    "2": {
+      "name": "admin2",
+      "pass": "050705",
+      "email": "c@@"
+    }
+  },
+  "normal": {
+    "1": {
+      "name": "normal1",
+      "pass": "pass1",
+      "email": "n1@@"
+    },
+    "2": {
+      "name": "normal2",
+      "pass": "pass2",
+      "email": "n2@@"
+    }
+  }
 }
