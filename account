@@ -1,26 +1,48 @@
 {
-  "admin": {
+  "accounts": {
     "1": {
       "name": "admin1",
       "pass": "270205",
-      "email": "t@@"
+      "email": "t@@",
+      "ren": "admin"
     },
     "2": {
       "name": "admin2",
       "pass": "050705",
-      "email": "c@@"
+      "email": "c@@",
+      "ren": "admin"
     }
   },
-  "normal": {
-    "1": {
-      "name": "normal1",
+  "users": {
+    "3": {
+      "name": "John Doe",
       "pass": "pass1",
-      "email": "n1@@"
+      "email": "n1@@",
+      "ren": "normal"
     },
-    "2": {
-      "name": "normal2",
+    "4": {
+      "name": "Jane Smith",
       "pass": "pass2",
-      "email": "n2@@"
+      "email": "n2@@",
+      "ren": "normal"
+    },
+    "5": {
+      "name": "Michael Johnson",
+      "pass": "pass3",
+      "email": "n3@@",
+      "ren": "normal"
+    },
+    "6": {
+      "name": "Emily Brown",
+      "pass": "pass4",
+      "email": "n4@@",
+      "ren": "normal"
+    },
+    "7": {
+      "name": "David Wilson",
+      "pass": "pass5",
+      "email": "n5@@",
+      "ren": "normal"
     }
   }
 }
