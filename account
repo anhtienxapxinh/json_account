@@ -1,5 +1,5 @@
 {
-  "accounts": {
+  "admins": {
     "1": {
       "name": "admin1",
       "pass": "270205",
